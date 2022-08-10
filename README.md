@@ -2,6 +2,8 @@
 
 This repository contains the code for the paper [LoRA: Low-Rank Adaption of Large Language Models](https://arxiv.org/abs/2005.15015).
 
+https://deepnote.com/@pritoms/LoRA-f6b774db-1db9-4ce2-974f-7c3df47225f3
+
 ## Requirements
 
 Install the required packages with:
